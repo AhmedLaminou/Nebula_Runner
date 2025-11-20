@@ -1,6 +1,7 @@
 # Nebula Runner
 
 A multi-file Pygame project (exploration + combat + items + simple AI + particles + procedural-ish level building).
+![Nebula Runner Screenshot](/2.png)
 
 Files:
 - main.py           # entry point
